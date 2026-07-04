@@ -58,3 +58,67 @@ Memory leak.
 
 Process killed.
 
+
+
+
+
+# Kubernetes
+
+
+Very high probability.
+
+Questions:
+
+Explain:
+
+Pod
+Deployment
+ReplicaSet
+Service
+Ingress
+ConfigMap
+Secret
+Namespace
+HPA
+
+Scenario questions:
+
+Pod CrashLoopBackOff
+Pending pod
+ImagePullBackOff
+OOMKilled
+Readiness failure
+Liveness failure
+
+Commands:
+
+kubectl get
+
+kubectl describe
+
+kubectl logs
+
+kubectl exec
+
+kubectl top
+
+kubectl rollout
+
+kubectl rollout undo
+
+
+
+# Jenkins
+
+
+Questions:
+
+Explain Jenkins architecture.
+Declarative vs Scripted Pipeline.
+Stages.
+Shared Libraries.
+Credentials.
+Webhooks.
+Jenkins Agent.
+Pipeline failure.
+Rollback.
