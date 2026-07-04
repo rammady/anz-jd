@@ -1,3 +1,7 @@
+Question 1: Walk me through your project.
+
+Answer:
+
 The project I worked on was an Enterprise Identity and Access Management platform used internally across the organization.
 
 Its primary purpose was to provide centralized authentication and authorization services for various internal business applications. Whenever an employee logged into an application, requested access to a service, or performed identity verification, the request was processed through this platform.
