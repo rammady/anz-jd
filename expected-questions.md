@@ -142,3 +142,48 @@ count
 for_each
 Remote backend
 Drift detection
+
+
+# Ansible
+
+Questions:
+
+Inventory
+Playbook
+Roles
+Variables
+Idempotency
+Handlers
+Facts
+Ad-hoc commands
+Vault
+
+
+# Docker
+
+Questions:
+
+Image
+Container
+Layer
+Registry
+Volume
+Network
+ENTRYPOINT
+CMD
+Dockerfile optimization
+Multi-stage build
+
+
+
+# GitOps / ArgoCD
+
+Questions:
+
+Why GitOps?
+How ArgoCD syncs?
+Desired state?
+Self-healing?
+Sync policy?
+Rollback?
+Difference between Jenkins and ArgoCD?
