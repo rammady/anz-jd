@@ -187,3 +187,106 @@ Self-healing?
 Sync policy?
 Rollback?
 Difference between Jenkins and ArgoCD?
+
+
+
+# Monitoring
+
+Questions:
+
+Why Prometheus?
+Exporters
+Pull vs Push
+AlertManager
+Grafana dashboards
+Splunk queries
+CloudWatch alarms
+
+Production questions:
+
+High CPU.
+
+Pod restart.
+
+Application latency.
+
+Memory leak.
+
+HTTP 500.
+
+
+
+
+**#Networking**
+
+ANZ explicitly asks networking.
+
+Questions:
+
+DNS
+
+TCP
+
+UDP
+
+HTTP
+
+HTTPS
+
+SSL
+
+TLS
+
+CIDR
+
+Subnet
+
+Routing
+
+NAT Gateway
+
+Load Balancer
+
+Ingress
+
+Port forwarding
+
+Firewall
+
+
+
+
+# SRE
+
+Most important.
+
+Questions:
+
+Explain
+
+SLI
+
+SLO
+
+SLA
+
+Error Budget
+
+MTTR
+
+MTBF
+
+Availability
+
+Capacity Planning
+
+Incident Management
+
+Postmortem
+
+Runbook
+
+Blameless RCA
+
+
+
