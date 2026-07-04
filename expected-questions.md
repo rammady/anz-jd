@@ -122,3 +122,23 @@ Webhooks.
 Jenkins Agent.
 Pipeline failure.
 Rollback.
+
+
+
+# Terraform
+
+
+Questions:
+
+State file
+Backend
+State Locking
+Modules
+Variables
+Outputs
+Lifecycle
+depends_on
+count
+for_each
+Remote backend
+Drift detection
